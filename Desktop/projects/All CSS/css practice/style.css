@@ -1,0 +1,32 @@
+
+body {background-color: brown;}
+    h1 {
+      color: red;
+      text-decoration: underline; text-align: center;
+    }
+
+    h2 {color: bisque}
+    h3 { color: orchid} 
+     
+
+    p, li {
+      font-size: 24px;
+      font-family: cursive; 
+      
+     .{color: red;}
+    
+
+    {
+      color: blue;
+    }
+
+    p{
+      color: green;
+    }
+
+    .all {
+      color: blue;
+    }
+
+  </style>
+</head>
